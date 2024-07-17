@@ -1,0 +1,12 @@
+.pagination-btn:hover{
+    background-color : red;
+    color : gray  !important;
+}
+
+.movie-card{
+    border : solid 1px gray
+}
+
+.movies-row{
+    border : solid 2px red;
+}

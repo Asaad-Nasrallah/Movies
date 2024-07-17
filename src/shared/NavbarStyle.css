@@ -1,0 +1,26 @@
+.nav{
+    border-bottom : solid 3px gray
+}
+.nav-logo{
+    font-size : 1.2rem;
+    font-weight : bold;
+}
+
+.nav-links{
+    text-decoration : none;
+    font-size : 1.2rem;
+}
+
+.nav-links, .nav-logo{
+    color : red;
+    font-style : italic;
+}
+
+.nav-links:hover{
+    color : gray;
+}
+
+.nav-list{
+    list-style-type : none;
+    
+}
